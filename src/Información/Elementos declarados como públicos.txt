@@ -1,0 +1,22 @@
+﻿Estos son los elementos que están declarados como públicos dentro de la clase 
+AgendaTelefonica, todos estos elementos son utilizados por el diálogo Buscar.
+
+-->OBJETOS<--
+stmtPersona
+conn
+rsPesona
+
+-->MÉTODOS<--
+limpiarAplicacion
+deshabilitarBotonesAlHacerBusqueda
+cargarDatosPersona
+cargarDatosTelefono
+cargarDatos
+habilitarBotonesAlHacerBusqueda
+
+-->COMPONENTES<--
+lblInformacion
+dlgBuscar
+
+-->VARIALBES<--
+consultaSQLDesdeElDialogoBuscar
